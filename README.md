@@ -31,6 +31,10 @@ To explore this project, you can check out the following files in this repositor
 2. **Unsupervised_Learning.py**: The Python script that runs the analysis, providing a more compact, code-only version of the notebook.
 3. **Online_Retail.csv**: The original dataset used for analysis.
 
+4. ## Dataset
+
+The dataset is stored in a `.rar` file. Please extract it using a tool like [WinRAR](https://www.win-rar.com/) or [7-Zip](https://www.7-zip.org/) to access the original CSV file.
+
 ## Tools and Technologies
 - Python: The primary programming language used for data analysis and machine learning.
 - Jupyter Notebook: For interactive analysis and visualizations.
@@ -38,6 +42,11 @@ To explore this project, you can check out the following files in this repositor
 - Matplotlib/Seaborn: Data visualization.
 - Scikit-Learn: For machine learning and clustering algorithms (K-Means).
 - NumPy: For numerical computations.
+
+## Notes
+
+- The analysis in this repository assumes the dataset is in its original form and may require modifications if the data format changes.
+- Make sure you have the necessary libraries installed (`pandas`, `matplotlib`, `seaborn`, `scikit-learn`) to run the code successfully.
 
 ---
 Made by **Esteban Márquez**.  
